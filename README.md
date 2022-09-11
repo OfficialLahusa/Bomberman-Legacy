@@ -1,7 +1,7 @@
 # Bomberman Legacy
 This is a **discontinued** Bomberman clone developed in 2019. The repository contains two Visual Studio C++ projects:
 
- 1. **Bomberman** contains the discontinued core game
+ 1. **Bomberman** contains the discontinued core game using the [SimpleSFMLEngine](https://github.com/oj002/SimpleSFMLEngine)
  2. **Networking Test** contains a UDP based client-server structure created as a research project into game servers, client prediction and entity interpolation
 
 ## Current State
