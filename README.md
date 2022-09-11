@@ -18,10 +18,9 @@ This is a **discontinued** Bomberman clone developed in 2019. The repository con
  - [x] Death when running out of health
  - [x] Scoreboard
  - [ ] Only handling keyboard input when in focus
- - [ ] Switching to goal-oriented AI
- - [ ] Switching to a client-server structure for the core game
+ - [ ] Switch to goal-oriented AI
+ - [ ] Migration to client-server structure for the core game
  - [ ] Per-tile serverside threat calculation for AI agents
  - [ ] Win condition + UI
  - [ ] Title screen
  - [ ] Per-match map generation and AI customization
-
